@@ -66,3 +66,6 @@ for _ in range(next_words):
 print(seed_text)
 
 
+#Results
+
+""" Sachin Tendulkar and Rahul Dravid were you add to the moment in the crowd did in the team cricketer ever in the world than could have won the same talent the man sitting next to me for tomorrow's newspaper to declare him out out 50 000 people in the crowd did to tendulkar in difficult times don't build character it reveals 4th gear than the ball man sitting next to me just on the map otherwise it is just india and pakistan pakistan pakistan pakistan the crowd did in numbers the ball in the won than the won the won man won in the world he """
